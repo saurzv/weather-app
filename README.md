@@ -1,6 +1,6 @@
 # Weather App
 
-[Live Page](http://ec2-65-2-153-4.ap-south-1.compute.amazonaws.com/)
+[Live Page](http://ec2-13-235-246-225.ap-south-1.compute.amazonaws.com/)
 
 ## How to use
 
